@@ -41,13 +41,13 @@ This project proves that even at **17 years old**, you can dream, build, and shi
     javac CalculatorSuite.java
     java CalculatorSuite
 
-🌟 Vision
+#🌟 Vision
 
 This project is just the beginning.
 Every repo here will show growth, discipline, and brilliance.
 The goal is not just to code, but to inspire 💡
 
-👩‍💻 Author: noorXai
+#👩‍💻 Author: noorXai
 
 A dreamer, builder, and future AI leader.
 Turning imagination into reality ✨
