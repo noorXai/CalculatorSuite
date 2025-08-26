@@ -38,9 +38,8 @@ This project proves that even at **17 years old**, you can dream, build, and shi
 
 3. **Compile & Run:**
     ```bash
-
-javac CalculatorSuite.java
-java CalculatorSuite
+    javac CalculatorSuite.java
+    java CalculatorSuite
 
 🌟 Vision
 
