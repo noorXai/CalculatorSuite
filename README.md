@@ -47,9 +47,13 @@ This project is just the beginning.
 Every repo here will show growth, discipline, and brilliance.
 The goal is not just to code, but to inspire 💡
 
+---
+
 #👩‍💻 Author: noorXai
 
 A dreamer, builder, and future AI leader.
 Turning imagination into reality ✨
+
+---
    
    
