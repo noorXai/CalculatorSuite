@@ -1,4 +1,4 @@
-# 💖 Heart Calculator – By NoorXai  
+# 💖 Heart Calculator – By noorXai  
 
 Welcome to **Heart Calculator**, a unique Java project that combines **logic + creativity + design**.  
 This is not just a calculator — it’s a piece of art shaped like a heart ❤️  
